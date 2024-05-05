@@ -1,0 +1,171 @@
+condition_code	condition_text	icd10cm_chapter_code	icd10cm_chapter_name	icd10cm_code	icd10cm_text
+10509002	Acute bronchitis (disorder)	J	Diseases of the respiratory system	J20.9	Acute bronchitis, unspecified
+109838007	Overlapping malignant neoplasm of colon	C	Neoplasms	C18.8	Malignant neoplasm of overlapping sites of colon
+110030002	Concussion injury of brain	S	Injury, poisoning and certain other consequences of external causes	S06.0X0?	Concussion without loss of consciousness, episode of care unspecified
+110359009	Intellectual disability (disorder)	F	Mental, Behavioral and Neurodevelopmental disorders	F79	Unspecified intellectual disabilities
+1121000119107	Chronic neck pain (finding)	M	Diseases of the musculoskeletal system and connective tissue	M54.2	Cervicalgia
+124171000119105	Chronic intractable migraine without aura	G	Diseases of the nervous system	G43.719	Chronic migraine without aura, intractable, without status migrainosus
+127013003	Diabetic renal disease (disorder)	E	Endocrine, nutritional and metabolic diseases	E11.21	Type 2 diabetes mellitus with diabetic nephropathy
+128188000	Cerebral palsy (disorder)	G	Diseases of the nervous system	G80.9	Cerebral palsy, unspecified
+128613002	Seizure disorder	P	Certain conditions originating in the perinatal period	P90	Convulsions of newborn
+132281000119108	Acute deep venous thrombosis (disorder)	I	Diseases of the circulatory system	I82.90	Acute embolism and thrombosis of unspecified vein
+1501000119109	Proliferative diabetic retinopathy due to type II diabetes mellitus (disorder)	E	Endocrine, nutritional and metabolic diseases	E11.3592	Type 2 diabetes mellitus with proliferative diabetic retinopathy without macular edema, left eye
+1551000119108	Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder)	E	Endocrine, nutritional and metabolic diseases	E11.3299	Type 2 diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema, unspecified eye
+156073000	Fetus with unknown complication	O	Pregnancy, childbirth and the puerperium	O03.5	Genital tract and pelvic infection following complete or unspecified spontaneous abortion
+15724005	Fracture of vertebral column without spinal cord injury	S	Injury, poisoning and certain other consequences of external causes	T14.8XX?	Other injury of unspecified body region, episode of care unspecified
+16114001	Fracture of ankle	S	Injury, poisoning and certain other consequences of external causes	S82.90X?	Unspecified fracture of unspecified lower leg, episode of care unspecified
+162573006	Suspected lung cancer (situation)				
+162864005	Body mass index 30+ - obesity (finding)	E	Endocrine, nutritional and metabolic diseases	E66.9	Obesity, unspecified
+1734006	Fracture of the vertebral column with spinal cord injury	S	Injury, poisoning and certain other consequences of external causes	T14.8XX?	Other injury of unspecified body region, episode of care unspecified
+185086009	Chronic obstructive bronchitis (disorder)	J	Diseases of the respiratory system	J44.1	Chronic obstructive pulmonary disease with (acute) exacerbation
+19169002	Miscarriage in first trimester	O	Pregnancy, childbirth and the puerperium	O03.9	Complete or unspecified spontaneous abortion without complication
+192127007	Child attention deficit disorder	F	Mental, Behavioral and Neurodevelopmental disorders	F90.9	Attention-deficit hyperactivity disorder, unspecified type
+195662009	Acute viral pharyngitis (disorder)	A	Certain infectious and parasitic diseases	B08.5	Enteroviral vesicular pharyngitis
+195967001	Asthma	J	Diseases of the respiratory system	J45.909	Unspecified asthma, uncomplicated
+196416002	Impacted molars	K	Diseases of the digestive system	K01.1	Impacted teeth
+197927001	Recurrent urinary tract infection	N	Diseases of the genitourinary system	N30.20	Other chronic cystitis without hematuria
+198992004	Antepartum eclampsia	O	Pregnancy, childbirth and the puerperium	O15.00	Eclampsia complicating pregnancy, unspecified trimester
+201834006	Localized  primary osteoarthritis of the hand	M	Diseases of the musculoskeletal system and connective tissue	M19.049	Primary osteoarthritis, unspecified hand
+203082005	Fibromyalgia (disorder)	M	Diseases of the musculoskeletal system and connective tissue	M79.7	Fibromyalgia
+221360009	Spasticity (finding)	R	Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified	R25.2	Cramp and spasm
+22253000	Pain (finding)	R	Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified	R52	Pain, unspecified
+22298006	Myocardial Infarction	I	Diseases of the circulatory system	I21.9	Acute myocardial infarction, unspecified
+230265002	Familial Alzheimer's disease of early onset (disorder)	G	Diseases of the nervous system	G30.0	Alzheimer's disease with early onset
+230690007	Stroke	I	Diseases of the circulatory system	I63.9	Cerebral infarction, unspecified
+232353008	Perennial allergic rhinitis with seasonal variation	J	Diseases of the respiratory system	J30.89	Other allergic rhinitis
+233604007	Pneumonia	J	Diseases of the respiratory system	J18.9	Pneumonia, unspecified organism
+233604007	Pneumonia (disorder)	J	Diseases of the respiratory system	J18.9	Pneumonia, unspecified organism
+233678006	Childhood asthma	J	Diseases of the respiratory system	J45.909	Unspecified asthma, uncomplicated
+234466008	Acquired coagulation disorder (disorder)	D	Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism	D68.8	Other specified coagulation defects
+235595009	Gastroesophageal reflux disease (disorder)	P	Certain conditions originating in the perinatal period	P78.83	Newborn esophageal reflux
+235919008	Cholelithiasis	K	Diseases of the digestive system	K80.20	Calculus of gallbladder without cholecystitis without obstruction
+236077008	Protracted diarrhea	P	Certain conditions originating in the perinatal period	P78.3	Noninfective neonatal diarrhea
+237602007	Metabolic syndrome X (disorder)	E	Endocrine, nutritional and metabolic diseases	E88.81	Metabolic syndrome
+239720000	Tear of meniscus of knee	S	Injury, poisoning and certain other consequences of external causes	S83.209?	Unspecified tear of unspecified meniscus, current injury, unspecified knee, episode of care unspecified
+239872002	Osteoarthritis of hip	M	Diseases of the musculoskeletal system and connective tissue	M16.9	Osteoarthritis of hip, unspecified
+239873007	Osteoarthritis of knee	M	Diseases of the musculoskeletal system and connective tissue	M17.9	Osteoarthritis of knee, unspecified
+24079001	Atopic dermatitis	L	Diseases of the skin and subcutaneous tissue	L20.9	Atopic dermatitis, unspecified
+241929008	Acute allergic reaction	S	Injury, poisoning and certain other consequences of external causes	T78.40X?	Allergy, unspecified, episode of care unspecified
+246677007	Passive conjunctival congestion (finding)	H	Diseases of the eye and adnexa	H11.89	Other specified disorders of conjunctiva
+248595008	Sputum finding (finding)				
+249497008	Vomiting symptom (finding)	R	Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified	R42	Dizziness and giddiness
+25064002	Headache (finding)	R	Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified	R51.9	Headache, unspecified
+254632001	Small cell carcinoma of lung (disorder)	C	Neoplasms	C34.90	Malignant neoplasm of unspecified part of unspecified bronchus or lung
+254637007	Non-small cell lung cancer (disorder)	C	Neoplasms	C34.90	Malignant neoplasm of unspecified part of unspecified bronchus or lung
+254837009	Malignant neoplasm of breast (disorder)	C	Neoplasms	C50.919	Malignant neoplasm of unspecified site of unspecified female breast
+262574004	Bullet wound	S	Injury, poisoning and certain other consequences of external causes	T14.8XX?	Other injury of unspecified body region, episode of care unspecified
+263102004	Fracture subluxation of wrist	S	Injury, poisoning and certain other consequences of external causes	S62.90X?	Unspecified fracture of unspecified wrist and hand, episode of care unspecified
+267036007	Dyspnea (finding)	R	Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified	R06.00	Dyspnea, unspecified
+267060006	Diarrhea symptom (finding)	P	Certain conditions originating in the perinatal period	P78.3	Noninfective neonatal diarrhea
+267102003	Sore throat symptom (finding)	J	Diseases of the respiratory system	J31.2	Chronic pharyngitis
+26929004	Alzheimer's disease (disorder)	G	Diseases of the nervous system	G30.9	Alzheimer's disease, unspecified
+271737000	Anemia (disorder)	D	Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism	D64.9	Anemia, unspecified
+271825005	Respiratory distress (finding)	P	Certain conditions originating in the perinatal period	P22.9	Respiratory distress of newborn, unspecified
+278860009	Chronic low back pain (finding)	M	Diseases of the musculoskeletal system and connective tissue	M54.50	Low back pain, unspecified
+27942005	Shock (disorder)	P	Certain conditions originating in the perinatal period	P29.89	Other cardiovascular disorders originating in the perinatal period
+283371005	Laceration of forearm	S	Injury, poisoning and certain other consequences of external causes	S51.819?	Laceration without foreign body of unspecified forearm, episode of care unspecified
+283385000	Laceration of thigh	S	Injury, poisoning and certain other consequences of external causes	S76.229?	Laceration of adductor muscle, fascia and tendon of unspecified thigh, episode of care unspecified
+284549007	Laceration of hand	S	Injury, poisoning and certain other consequences of external causes	S61.419?	Laceration without foreign body of unspecified hand, episode of care unspecified
+284551006	Laceration of foot	S	Injury, poisoning and certain other consequences of external causes	S91.319?	Laceration without foreign body, unspecified foot, episode of care unspecified
+301011002	Escherichia coli urinary tract infection	P	Certain conditions originating in the perinatal period	P39.3	Neonatal urinary tract infection
+302870006	Hypertriglyceridemia (disorder)	E	Endocrine, nutritional and metabolic diseases	E78.1	Pure hyperglyceridemia
+307731004	Injury of tendon of the rotator cuff of shoulder	S	Injury, poisoning and certain other consequences of external causes	S46.009?	Unspecified injury of muscle(s) and tendon(s) of the rotator cuff of unspecified shoulder, episode of care unspecified
+30832001	Rupture of patellar tendon	M	Diseases of the musculoskeletal system and connective tissue	M66.861	Spontaneous rupture of other tendons, right lower leg
+33737001	Fracture of rib	S	Injury, poisoning and certain other consequences of external causes	S22.39X?	Fracture of one rib, unspecified side, episode of care unspecified
+359817006	Closed fracture of hip	S	Injury, poisoning and certain other consequences of external causes	S72.009?	Fracture of unspecified part of neck of unspecified femur, episode of care unspecified
+35999006	Blighted ovum	O	Pregnancy, childbirth and the puerperium	O02.0	Blighted ovum and nonhydatidiform mole
+363406005	Malignant tumor of colon	C	Neoplasms	C18.9	Malignant neoplasm of colon, unspecified
+367498001	Seasonal allergic rhinitis	J	Diseases of the respiratory system	J30.1	Allergic rhinitis due to pollen
+368581000119106	Neuropathy due to type 2 diabetes mellitus (disorder)	E	Endocrine, nutritional and metabolic diseases	E11.42	Type 2 diabetes mellitus with diabetic polyneuropathy
+36955009	Loss of taste (finding)	R	Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified	R43.8	Other disturbances of smell and taste
+36971009	Sinusitis (disorder)	J	Diseases of the respiratory system	J32.9	Chronic sinusitis, unspecified
+370247008	Facial laceration	S	Injury, poisoning and certain other consequences of external causes	S01.81X?	Laceration without foreign body of other part of head, episode of care unspecified
+386661006	Fever (finding)	P	Certain conditions originating in the perinatal period	P81.9	Disturbance of temperature regulation of newborn, unspecified
+38822007	Cystitis	N	Diseases of the genitourinary system	N30.90	Cystitis, unspecified without hematuria
+389087006	Hypoxemia (disorder)	P	Certain conditions originating in the perinatal period	P84	Other problems with newborn
+398152000	Poor muscle tone (finding)	R	Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified	R29.898	Other symptoms and signs involving the musculoskeletal system
+398254007	Preeclampsia	O	Pregnancy, childbirth and the puerperium	O14.00	Mild to moderate pre-eclampsia, unspecified trimester
+39848009	Whiplash injury to neck	S	Injury, poisoning and certain other consequences of external causes	S13.4XX?	Sprain of ligaments of cervical spine, episode of care unspecified
+399211009	History of myocardial infarction (situation)	I	Diseases of the circulatory system	I25.2	Old myocardial infarction
+40055000	Chronic sinusitis (disorder)	J	Diseases of the respiratory system	J32.9	Chronic sinusitis, unspecified
+40095003	Injury of kidney (disorder)	S	Injury, poisoning and certain other consequences of external causes	S37.009?	Unspecified injury of unspecified kidney, episode of care unspecified
+40275004	Contact dermatitis	L	Diseases of the skin and subcutaneous tissue	L25.9	Unspecified contact dermatitis, unspecified cause
+403190006	First degree burn	S	Injury, poisoning and certain other consequences of external causes	T14.8XX?	Other injury of unspecified body region, episode of care unspecified
+403191005	Second degree burn	S	Injury, poisoning and certain other consequences of external causes	T14.8XX?	Other injury of unspecified body region, episode of care unspecified
+408512008	Body mass index 40+ - severely obese (finding)	Z	Factors influencing health status and contact with health services	Z68.41	Body mass index [BMI] 40.0-44.9, adult
+410429000	Cardiac Arrest	P	Certain conditions originating in the perinatal period	P29.81	Cardiac arrest of newborn
+422034002	Diabetic retinopathy associated with type II diabetes mellitus (disorder)	E	Endocrine, nutritional and metabolic diseases	E11.319	Type 2 diabetes mellitus with unspecified diabetic retinopathy without macular edema
+422587007	Nausea (finding)	R	Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified	R11.0	Nausea
+424132000	Non-small cell carcinoma of lung  TNM stage 1 (disorder)	C	Neoplasms	C34.90	Malignant neoplasm of unspecified part of unspecified bronchus or lung
+427419006	Transformed migraine (disorder)	G	Diseases of the nervous system	G43.719	Chronic migraine without aura, intractable, without status migrainosus
+428251008	History of appendectomy	Z	Factors influencing health status and contact with health services	Z90.49	Acquired absence of other specified parts of digestive tract
+429007001	History of cardiac arrest (situation)	Z	Factors influencing health status and contact with health services	Z86.79	Personal history of other diseases of the circulatory system
+429280009	History of amputation of foot (situation)	Z	Factors influencing health status and contact with health services	Z89.439	Acquired absence of unspecified foot
+431855005	Chronic kidney disease stage 1 (disorder)	I	Diseases of the circulatory system	I12.9	Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease
+431856006	Chronic kidney disease stage 2 (disorder)	I	Diseases of the circulatory system	I12.9	Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease
+43724002	Chill (finding)	P	Certain conditions originating in the perinatal period	P81.9	Disturbance of temperature regulation of newborn, unspecified
+43878008	Streptococcal sore throat (disorder)	J	Diseases of the respiratory system	J03.00	Acute streptococcal tonsillitis, unspecified
+44054006	Diabetes	E	Endocrine, nutritional and metabolic diseases	E11.9	Type 2 diabetes mellitus without complications
+443165006	Pathological fracture due to osteoporosis (disorder)	M	Diseases of the musculoskeletal system and connective tissue	M80.00X?	Age-related osteoporosis with current pathological fracture, unspecified site, episode of care unspecified
+444448004	Injury of medial collateral ligament of knee	S	Injury, poisoning and certain other consequences of external causes	S81.009?	Unspecified open wound, unspecified knee, episode of care unspecified
+444470001	Injury of anterior cruciate ligament	S	Injury, poisoning and certain other consequences of external causes	S81.009?	Unspecified open wound, unspecified knee, episode of care unspecified
+44465007	Sprain of ankle	S	Injury, poisoning and certain other consequences of external causes	S93.409?	Sprain of unspecified ligament of unspecified ankle, episode of care unspecified
+444814009	Viral sinusitis (disorder)	J	Diseases of the respiratory system	J01.90	Acute sinusitis, unspecified
+446096008	Perennial allergic rhinitis	J	Diseases of the respiratory system	J30.5	Allergic rhinitis due to food
+47200007	Non-low risk pregnancy	O	Pregnancy, childbirth and the puerperium	O26.20	Pregnancy care for patient with recurrent pregnancy loss, unspecified trimester
+47693006	Rupture of appendix	K	Diseases of the digestive system	K35.33	Acute appendicitis with perforation and localized peritonitis, with abscess
+49436004	Atrial Fibrillation	I	Diseases of the circulatory system	I48.91	Unspecified atrial fibrillation
+49727002	Cough (finding)	R	Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified	R05.9	Cough, unspecified
+53741008	Coronary Heart Disease	I	Diseases of the circulatory system	I25.10	Atherosclerotic heart disease of native coronary artery without angina pectoris
+55822004	Hyperlipidemia	E	Endocrine, nutritional and metabolic diseases	E78.5	Hyperlipidemia, unspecified
+56018004	Wheezing (finding)	R	Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified	R06.2	Wheezing
+5602001	Opioid abuse (disorder)	F	Mental, Behavioral and Neurodevelopmental disorders	F11.10	Opioid abuse, uncomplicated
+57676002	Joint pain (finding)	M	Diseases of the musculoskeletal system and connective tissue	M25.50	Pain in unspecified joint
+58150001	Fracture of clavicle	S	Injury, poisoning and certain other consequences of external causes	S42.009?	Fracture of unspecified part of unspecified clavicle, episode of care unspecified
+59621000	Hypertension	P	Certain conditions originating in the perinatal period	P29.2	Neonatal hypertension
+6072007	Bleeding from anus	P	Certain conditions originating in the perinatal period	P54.2	Neonatal rectal hemorrhage
+62106007	Concussion with no loss of consciousness	S	Injury, poisoning and certain other consequences of external causes	S06.0X0?	Concussion without loss of consciousness, episode of care unspecified
+62564004	Concussion with loss of consciousness	S	Injury, poisoning and certain other consequences of external causes	S06.0X9?	Concussion with loss of consciousness of unspecified duration, episode of care unspecified
+64859006	Osteoporosis (disorder)	M	Diseases of the musculoskeletal system and connective tissue	M81.0	Age-related osteoporosis without current pathological fracture
+65275009	Acute Cholecystitis	K	Diseases of the digestive system	K81.0	Acute cholecystitis
+65363002	Otitis media	H	Diseases of the ear and mastoid process	H66.90	Otitis media, unspecified, unspecified ear
+65710008	Acute respiratory failure (disorder)	J	Diseases of the respiratory system	J96.00	Acute respiratory failure, unspecified whether with hypoxia or hypercapnia
+65966004	Fracture of forearm	S	Injury, poisoning and certain other consequences of external causes	S52.90X?	Unspecified fracture of unspecified forearm, episode of care unspecified
+66857006	Hemoptysis (finding)	P	Certain conditions originating in the perinatal period	P26.9	Unspecified pulmonary hemorrhage originating in the perinatal period
+67782005	Acute respiratory distress syndrome (disorder)	U	Special purpose codes	U07.1	COVID-19
+67811000119102	Primary small cell malignant neoplasm of lung  TNM stage 1 (disorder)	C	Neoplasms	C34.90	Malignant neoplasm of unspecified part of unspecified bronchus or lung
+68235000	Nasal congestion (finding)	R	Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified	R09.81	Nasal congestion
+68496003	Polyp of colon	K	Diseases of the digestive system	K63.5	Polyp of colon
+68962001	Muscle pain (finding)	M	Diseases of the musculoskeletal system and connective tissue	M79.10	Myalgia, unspecified site
+698754002	Chronic paralysis due to lesion of spinal cord	G	Diseases of the nervous system	G95.9	Disease of spinal cord, unspecified
+69896004	Rheumatoid arthritis	M	Diseases of the musculoskeletal system and connective tissue	M08.00	Unspecified juvenile rheumatoid arthritis of unspecified site
+703151001	History of single seizure (situation)	Z	Factors influencing health status and contact with health services	Z86.69	Personal history of other diseases of the nervous system and sense organs
+706870000	Acute pulmonary embolism (disorder)	I	Diseases of the circulatory system	I26.01	Septic pulmonary embolism with acute cor pulmonale
+70704007	Sprain of wrist	S	Injury, poisoning and certain other consequences of external causes	S63.509?	Unspecified sprain of unspecified wrist, episode of care unspecified
+713197008	Recurrent rectal polyp	K	Diseases of the digestive system	K62.1	Rectal polyp
+72892002	Normal pregnancy	Z	Factors influencing health status and contact with health services	Z34.00	Encounter for supervision of normal first pregnancy, unspecified trimester
+74400008	Appendicitis	K	Diseases of the digestive system	K37	Unspecified appendicitis
+75498004	Acute bacterial sinusitis (disorder)	J	Diseases of the respiratory system	J01.90	Acute sinusitis, unspecified
+76571007	Septic shock (disorder)	R	Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified	R65.21	Severe sepsis with septic shock
+770349000	Sepsis caused by virus (disorder)	A	Certain infectious and parasitic diseases	B34.9	Viral infection, unspecified
+79586000	Tubal pregnancy	O	Pregnancy, childbirth and the puerperium	O00.109	Unspecified tubal pregnancy without intrauterine pregnancy
+80394007	Hyperglycemia (disorder)	R	Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified	R73.9	Hyperglycemia, unspecified
+82423001	Chronic pain	R	Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified	R52	Pain, unspecified
+83664006	Idiopathic atrophic hypothyroidism	E	Endocrine, nutritional and metabolic diseases	E03.4	Atrophy of thyroid (acquired)
+840539006	COVID-19	U	Special purpose codes	U07.1	COVID-19
+840544004	Suspected COVID-19	Z	Factors influencing health status and contact with health services	Z20.822	Contact with and (suspected) exposure to COVID-19
+84114007	Heart failure (disorder)	P	Certain conditions originating in the perinatal period	P29.0	Neonatal cardiac failure
+84229001	Fatigue (finding)	R	Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified	R54	Age-related physical debility
+84757009	Epilepsy	G	Diseases of the nervous system	G40.909	Epilepsy, unspecified, not intractable, without status epilepticus
+84757009	Epilepsy (disorder)	G	Diseases of the nervous system	G40.909	Epilepsy, unspecified, not intractable, without status epilepticus
+86175003	Injury of heart (disorder)	S	Injury, poisoning and certain other consequences of external causes	S26.90X?	Unspecified injury of heart, unspecified with or without hemopericardium, episode of care unspecified
+87433001	Pulmonary emphysema (disorder)	P	Certain conditions originating in the perinatal period	P25.8	Other conditions related to interstitial emphysema originating in the perinatal period
+87628006	Bacterial infectious disease (disorder)	A	Certain infectious and parasitic diseases	A49.9	Bacterial infection, unspecified
+88805009	Chronic congestive heart failure (disorder)	I	Diseases of the circulatory system	I50.1	Left ventricular failure, unspecified
+90560007	Gout	M	Diseases of the musculoskeletal system and connective tissue	M10.9	Gout, unspecified
+90781000119102	Microalbuminuria due to type 2 diabetes mellitus (disorder)	E	Endocrine, nutritional and metabolic diseases	E11.29	Type 2 diabetes mellitus with other diabetic kidney complication
+91302008	Sepsis (disorder)	P	Certain conditions originating in the perinatal period	P36.9	Bacterial sepsis of newborn, unspecified
+93761005	Primary malignant neoplasm of colon	C	Neoplasms	C18.9	Malignant neoplasm of colon, unspecified
+94260004	Secondary malignant neoplasm of colon	C	Neoplasms	C78.5	Secondary malignant neoplasm of large intestine and rectum
+95417003	Primary fibromyalgia syndrome	M	Diseases of the musculoskeletal system and connective tissue	M79.7	Fibromyalgia
+97331000119101	Macular edema and retinopathy due to type 2 diabetes mellitus (disorder)	E	Endocrine, nutritional and metabolic diseases	E11.311	Type 2 diabetes mellitus with unspecified diabetic retinopathy with macular edema

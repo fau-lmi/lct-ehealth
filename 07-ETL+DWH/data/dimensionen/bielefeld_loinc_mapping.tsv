@@ -1,0 +1,83 @@
+befund_code	befund_kurzname	loinc_code	loinc_shortname
+2LDH	LDH	14804-9	LDH SerPl L to P-cCnc
+6UALBK	U-Albumin / Kreatinin	14959-1	Microalbumin/Creat Ur
+6GPT	ALT / GPT	1742-6	ALT SerPl-cCnc
+2ALB	Albumin	1751-7	Albumin SerPl-mCnc
+6GOT	AST / GOT	1920-8	AST SerPl-cCnc
+2BILI	Bilirubin gesamt	1975-2	Bilirub SerPl-mCnc
+2CRP	C-Reaktives Protein ( CRP )	1988-5	CRP SerPl-mCnc
+1HKT	HKT Sammelblut MAT	20570-8	Hct VFr Bld
+2CL	Chlorid	2075-0	Chloride SerPl-sCnc
+2HDLC	HDL Cholesterin	2085-9	HDLc SerPl-mCnc
+2CHOL	Cholesterin	2093-3	Cholest SerPl-mCnc
+5ERYVANZ	Erythrozytenverteilung	21000-5	RDW RBC Auto
+2CK	CK	2157-6	CK SerPl-cCnc
+2KRE	Kreatinin	2160-0	Creat SerPl-mCnc
+2FERR	Ferritin	2276-4	Ferritin SerPl-mCnc
+2GLUB	Glucose Hämolysat	2339-0	Glucose Bld-mCnc
+2GLU	FP-Glucose	2345-7	Glucose SerPl-mCnc
+2FE	Eisen	2498-4	Iron SerPl-mCnc
+2TRFFE	Transferrin-Eisen-Sättigung	2502-3	Iron Satn MFr SerPl
+2TGLY	Triglyceride	2571-8	Trigl SerPl-mCnc
+1ERY	Erythrozyten	26453-1	RBC # Bld
+1LEU	Leukozyten	26464-8	WBC # Bld
+1THR	Thrombozyten	26515-7	Platelet # Bld
+3IIL6	IL-6 im Serum	26881-3	Il6 SerPl-mCnc
+2K	Kalium	2823-3	Potassium SerPl-sCnc
+2GE	Gesamt-Eiweiß	2885-2	Prot SerPl-mCnc
+2GEW	Körpergewicht	29463-7	Weight
+2NAB	Natrium Vollblut	2947-0	Sodium Bld-sCnc
+2NA	Natrium	2951-2	Sodium SerPl-sCnc
+2TSH	TSH	3016-3	TSH SerPl-aCnc
+2RDWCV	Ery. Verteilungsbreite	30385-9	RDW RBC-Rto
+1MCV	MCV	30428-7	MCV RBC
+5THRV	Thrombozytenverteilung, THRV	32207-3	PDW Bld Auto
+2NTBNP	NT-pro Brain Natriuretic Peptide	33762-6	NT-proBNP SerPl-mCnc
+6PCT	Procalcitonin ( PCT )	33959-8	Procalcitonin SerPl-mCnc
+2BILIB	Bilirubin Vollblut	42719-5	Bilirub Bld-mCnc
+5HKTANZ	Hämatokrit	4544-3	Hct VFr Bld Auto
+2HBA1C	HbA1C	4548-4	HbA1c MFr Bld
+2DDIM	D-Dimere	48065-7	D dimer FEU PPP-mCnc
+2UTBILG	Bilirubin	5770-3	Bilirub Ur Ql Strip
+2UTCOLOR	Farbe	5778-6	Color Ur
+1UNIT	U-Nitrit qual	5802-4	Nitrite Ur Ql Strip
+2MONOPG	Monozyten %         (Gerät)	5905-5	Monocytes/leuk NFr Bld Auto
+1M2	Cladosporium herbarum	6075-6	C herbarum IgE Qn
+1F3	Dorsch (Kabeljau)	6082-2	Codfish IgE Qn
+1W1	Ambrosie, beifußblättrig	6085-5	Common Ragweed IgE Qn
+1D2	Dermatopha. farinae	6095-4	D farinae IgE Qn
+1F1	Eiklar ( Hühnereiweiß)	6106-9	Egg White IgE Qn
+1K82	Latex	6158-0	Ltx IgE Qn
+1T7	Eiche	6189-5	White Oak IgE Qn
+1F13	Erdnuss	6206-7	Peanut IgE Qn
+1F24	Garnele	6246-3	Shrimp IgE Qn
+1F14	Sojabohne	6248-9	Soybean IgE Qn
+1F256	Walnuss	6273-7	Walnut IgE Qn
+1F4	Weizenmehl	6276-0	Wheat IgE Qn
+2KB	Kalium Vollblut	6298-4	Potassium Bld-sCnc
+2INR	INR	6301-6	INR PPP
+2LEUK	Leukozyten	6690-2	WBC # Bld Auto
+2AP	Alk. Phosphatase	6768-6	ALP SerPl-cCnc
+1,00E+01	Katzenschuppen	6833-8	Cat Dander IgE Qn
+1I1	Bienengift	6844-5	Honey bee IgE Qn
+2BASOG	BASOPHILE abs. (Gerät)	704-7	Basophils # Bld Auto
+2BASOPG	Basophile %         (Gerät)	706-2	Basophils/leuk NFr Bld Auto
+2EOSG	EOSINOPHILE abs. (Gerät)	711-2	Eosinophil # Bld Auto
+2EOSPG	Eosinophile %       (Gerät)	713-8	Eosinophil/leuk NFr Bld Auto
+1HB	Hämoglobin	718-7	Hgb Bld-mCnc
+1F2	Milcheiweiß	7258-7	Cow Milk IgE Qn
+2LYMG	LYMPHOZYTEN abs. (Gerät)	731-0	Lymphocytes # Bld Auto
+2LYMPG	Lymphozyten %       (Gerät)	736-9	Lymphocytes/leuk NFr Bld Auto
+2MONOG	MONOZYTEN abs. (Gerät)	742-7	Monocytes # Bld Auto
+2NEUG	NEUTR. GRANULO. abs. (Gerät)	751-8	Neutrophils # Bld Auto
+2NEUPG	Neutr. Granulozyt % (Gerät)	770-8	Neutrophils/leuk NFr Bld Auto
+2THRO	Thrombozyten	777-3	Platelet # Bld Auto
+5MCHANZ	MCH	785-6	MCH RBC Qn Auto
+5MCHCANZ	MCHC	786-4	MCHC RBC Auto-mCnc
+5MCVANZ	MCV	787-2	MCV RBC Auto
+2ERY	Erythrozyten	789-8	RBC # Bld Auto
+2GROE	Körpergröße	8302-2	Body height
+6HSTROI	Troponin I (high sensitive)	89579-7	Troponin I SerPl HS-mCnc
+2RSVKGXP	RSV RNA (RT-PCR)°	92131-2	RSV RNA Resp Ql NAA+probe
+80INFBKAL	Influenza-B-RNA	92141-1	FLUBV RNA Resp Ql NAA+probe
+80INFAKAL	Influenza-A-RNA	92142-9	FLUAV RNA Resp Ql NAA+probe
